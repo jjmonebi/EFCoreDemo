@@ -24,7 +24,7 @@ namespace EFCoreDemo
 
                 foreach(var book in context.Books)
                 {
-                    Console.WriteLine(book.Title + " " + book.BookId);
+                    Console.WriteLine("Title: " + book.Title + " Id: " + book.BookId);
                 }
             }
         }
