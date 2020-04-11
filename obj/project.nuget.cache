@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FMAdry7vkP71ETFi+GZg92XyKO9wcWP/yH8zWzEmejl4q7orY5d/H77Ps5ad8Vfu2H4NUxWFe68z/nWGl3ImUg==",
+  "dgSpecHash": "DnuL8XmBi8aN/UHhbLXdg4r9jSl9x8dciLpLaA2YOHl0MrcsjPLkD33wIB9vWoDYckk0MgYCdJdo/342UTzyLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jimisayo.monebi\\Documents\\Personal\\Dotnet Projects\\EFCoreDemo\\EFCoreDemo.csproj",
+  "projectFilePath": "C:\\Users\\jimisayo.monebi\\Documents\\Personal\\Dotnet Projects\\EFCoreDemo2\\EFCoreDemo\\EFCoreDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jimisayo.monebi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\jimisayo.monebi\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

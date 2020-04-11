@@ -1187,11 +1187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jimisayo.monebi\\Documents\\Personal\\Dotnet Projects\\EFCoreDemo\\EFCoreDemo.csproj",
+      "projectUniqueName": "C:\\Users\\jimisayo.monebi\\Documents\\Personal\\Dotnet Projects\\EFCoreDemo2\\EFCoreDemo\\EFCoreDemo.csproj",
       "projectName": "EFCoreDemo",
-      "projectPath": "C:\\Users\\jimisayo.monebi\\Documents\\Personal\\Dotnet Projects\\EFCoreDemo\\EFCoreDemo.csproj",
+      "projectPath": "C:\\Users\\jimisayo.monebi\\Documents\\Personal\\Dotnet Projects\\EFCoreDemo2\\EFCoreDemo\\EFCoreDemo.csproj",
       "packagesPath": "C:\\Users\\jimisayo.monebi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jimisayo.monebi\\Documents\\Personal\\Dotnet Projects\\EFCoreDemo\\obj\\",
+      "outputPath": "C:\\Users\\jimisayo.monebi\\Documents\\Personal\\Dotnet Projects\\EFCoreDemo2\\EFCoreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jimisayo.monebi\\AppData\\Roaming\\NuGet\\NuGet.Config"
